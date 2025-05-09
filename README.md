@@ -41,3 +41,13 @@ The logistic regression model achieved:
 - Precision: 94%
 - Recall: 89%
 - F1-Score: 92%
+
+---
+
+## Career Context  
+This academic project demonstrates my ability to:  
+- Build production-ready ML models and apply statistical analysis
+- Extract business insights from data  
+- Communicate technical findings effectively  
+
+*Currently exploring roles where I can apply these skills professionally.*  
